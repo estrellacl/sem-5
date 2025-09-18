@@ -11,6 +11,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "eje p", "eje p\eje p.pyproj
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ejr 2 p", "ejr 2 p\ejr 2 p.pyproj", "{178836A8-3FDE-4EEE-BC21-FA9AD1F22246}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejer3", "ejer3\ejer3.csproj", "{2DCB6C02-74C4-47C7-9280-27486DF7F51D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{A503FF74-EF08-45C6-B30B-2F95A518D35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{178836A8-3FDE-4EEE-BC21-FA9AD1F22246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{178836A8-3FDE-4EEE-BC21-FA9AD1F22246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCB6C02-74C4-47C7-9280-27486DF7F51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCB6C02-74C4-47C7-9280-27486DF7F51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCB6C02-74C4-47C7-9280-27486DF7F51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCB6C02-74C4-47C7-9280-27486DF7F51D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
