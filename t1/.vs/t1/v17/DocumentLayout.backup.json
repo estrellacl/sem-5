@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\t1\\t1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{178836A8-3FDE-4EEE-BC21-FA9AD1F22246}|ejr 2 p\\ejr 2 p.pyproj|C:\\Users\\UPN\\Desktop\\t1\\t1\\ejr 2 p\\ejr_2_p.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{178836A8-3FDE-4EEE-BC21-FA9AD1F22246}|ejr 2 p\\ejr 2 p.pyproj|solutionrelative:ejr 2 p\\ejr_2_p.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A503FF74-EF08-45C6-B30B-2F95A518D35F}|eje p\\eje p.pyproj|C:\\Users\\UPN\\Desktop\\t1\\t1\\eje p\\eje_p.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A503FF74-EF08-45C6-B30B-2F95A518D35F}|eje p\\eje p.pyproj|solutionrelative:eje p\\eje_p.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811EB2B1-0125-4557-B514-B731D53563AE}|ejer2\\ejer2.csproj|C:\\Users\\UPN\\Desktop\\t1\\t1\\ejer2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811EB2B1-0125-4557-B514-B731D53563AE}|ejer2\\ejer2.csproj|solutionrelative:ejer2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCCB6E7-03B2-4C30-BE6C-30AD3431C492}|ejer1\\ejer1.csproj|C:\\Users\\UPN\\Desktop\\t1\\t1\\ejer1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCCB6E7-03B2-4C30-BE6C-30AD3431C492}|ejer1\\ejer1.csproj|solutionrelative:ejer1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "eje_p.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\t1\\t1\\eje p\\eje_p.py",
+              "RelativeDocumentMoniker": "eje p\\eje_p.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\t1\\t1\\eje p\\eje_p.py",
+              "RelativeToolTip": "eje p\\eje_p.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-18T13:49:07.808Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejr_2_p.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\t1\\t1\\ejr 2 p\\ejr_2_p.py",
+              "RelativeDocumentMoniker": "ejr 2 p\\ejr_2_p.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\t1\\t1\\ejr 2 p\\ejr_2_p.py",
+              "RelativeToolTip": "ejr 2 p\\ejr_2_p.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-18T14:08:25.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\t1\\t1\\ejer2\\Program.cs",
+              "RelativeDocumentMoniker": "ejer2\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\t1\\t1\\ejer2\\Program.cs",
+              "RelativeToolTip": "ejer2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:14:44.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\t1\\t1\\ejer1\\Program.cs",
+              "RelativeDocumentMoniker": "ejer1\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\t1\\t1\\ejer1\\Program.cs",
+              "RelativeToolTip": "ejer1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:44:40.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
