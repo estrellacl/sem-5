@@ -1,0 +1,8 @@
+C:\Users\UPN\Documents\ejer s2em 6\bin\Debug\ejer s2em 6.exe.config
+C:\Users\UPN\Documents\ejer s2em 6\bin\Debug\ejer s2em 6.exe
+C:\Users\UPN\Documents\ejer s2em 6\bin\Debug\ejer s2em 6.pdb
+C:\Users\UPN\Documents\ejer s2em 6\obj\Debug\ejer s2em 6.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\ejer s2em 6\obj\Debug\ejer s2em 6.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\ejer s2em 6\obj\Debug\ejer s2em 6.exe
+C:\Users\UPN\Documents\ejer s2em 6\obj\Debug\ejer s2em 6.pdb
+C:\Users\UPN\Documents\ejer s2em 6\obj\Debug\ejer s2em 6.exe.config

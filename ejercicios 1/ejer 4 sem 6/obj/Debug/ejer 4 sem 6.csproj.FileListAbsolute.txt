@@ -1,0 +1,8 @@
+C:\Users\UPN\Documents\ejercicios 1\ejer 4 sem 6\bin\Debug\ejer 4 sem 6.exe.config
+C:\Users\UPN\Documents\ejercicios 1\ejer 4 sem 6\bin\Debug\ejer 4 sem 6.exe
+C:\Users\UPN\Documents\ejercicios 1\ejer 4 sem 6\bin\Debug\ejer 4 sem 6.pdb
+C:\Users\UPN\Documents\ejercicios 1\ejer 4 sem 6\obj\Debug\ejer 4 sem 6.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\ejercicios 1\ejer 4 sem 6\obj\Debug\ejer 4 sem 6.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\ejercicios 1\ejer 4 sem 6\obj\Debug\ejer 4 sem 6.exe
+C:\Users\UPN\Documents\ejercicios 1\ejer 4 sem 6\obj\Debug\ejer 4 sem 6.pdb
+C:\Users\UPN\Documents\ejercicios 1\ejer 4 sem 6\obj\Debug\ejer 4 sem 6.exe.config
