@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\sem8\kmj\bin\Debug\kmj.exe.config
+C:\Users\UPN\Desktop\sem8\kmj\bin\Debug\kmj.exe
+C:\Users\UPN\Desktop\sem8\kmj\bin\Debug\kmj.pdb
+C:\Users\UPN\Desktop\sem8\kmj\obj\Debug\kmj.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\sem8\kmj\obj\Debug\kmj.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\sem8\kmj\obj\Debug\kmj.exe
+C:\Users\UPN\Desktop\sem8\kmj\obj\Debug\kmj.pdb
