@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\9\eje1xame\bin\Debug\eje1xame.exe.config
+C:\Users\UPN\Desktop\9\eje1xame\bin\Debug\eje1xame.exe
+C:\Users\UPN\Desktop\9\eje1xame\bin\Debug\eje1xame.pdb
+C:\Users\UPN\Desktop\9\eje1xame\obj\Debug\eje1xame.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\9\eje1xame\obj\Debug\eje1xame.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\9\eje1xame\obj\Debug\eje1xame.exe
+C:\Users\UPN\Desktop\9\eje1xame\obj\Debug\eje1xame.pdb
+C:\Users\UPN\Desktop\9\eje1xame\obj\Debug\eje1xame.exe.config
