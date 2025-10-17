@@ -1,0 +1,10 @@
+C:\Users\UPN\Desktop\e\sem9.--}\obj\Debug\sem9.--}.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\e\sem9.--}\obj\Debug\sem9.--}.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\e\sem9.--}\bin\Debug\sem9.--}.exe.config
+C:\Users\UPN\Desktop\e\sem9.--}\bin\Debug\sem9.--}.exe
+C:\Users\UPN\Desktop\e\sem9.--}\bin\Debug\sem9.--}.pdb
+C:\Users\UPN\Desktop\e\sem9.--}\bin\Debug\biblioteca.dll
+C:\Users\UPN\Desktop\e\sem9.--}\bin\Debug\biblioteca.pdb
+C:\Users\UPN\Desktop\e\sem9.--}\obj\Debug\sem9.--}.csproj.Up2Date
+C:\Users\UPN\Desktop\e\sem9.--}\obj\Debug\sem9.--}.exe
+C:\Users\UPN\Desktop\e\sem9.--}\obj\Debug\sem9.--}.pdb
