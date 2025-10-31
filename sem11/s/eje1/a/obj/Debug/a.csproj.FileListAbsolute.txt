@@ -1,0 +1,8 @@
+C:\Users\UPN\Documents\sem11\s\eje1\a\bin\Debug\a.exe.config
+C:\Users\UPN\Documents\sem11\s\eje1\a\bin\Debug\a.exe
+C:\Users\UPN\Documents\sem11\s\eje1\a\bin\Debug\a.pdb
+C:\Users\UPN\Documents\sem11\s\eje1\a\obj\Debug\a.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\sem11\s\eje1\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\sem11\s\eje1\a\obj\Debug\a.exe
+C:\Users\UPN\Documents\sem11\s\eje1\a\obj\Debug\a.pdb
+C:\Users\UPN\Documents\sem11\s\eje1\a\obj\Debug\a.exe.config
