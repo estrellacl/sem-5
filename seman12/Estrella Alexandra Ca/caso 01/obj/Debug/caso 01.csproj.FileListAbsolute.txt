@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\seman12\Estrella Alexandra Ca\caso 01\bin\Debug\caso 01.exe.config
+C:\Users\UPN\Desktop\seman12\Estrella Alexandra Ca\caso 01\bin\Debug\caso 01.exe
+C:\Users\UPN\Desktop\seman12\Estrella Alexandra Ca\caso 01\bin\Debug\caso 01.pdb
+C:\Users\UPN\Desktop\seman12\Estrella Alexandra Ca\caso 01\obj\Debug\caso 01.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\seman12\Estrella Alexandra Ca\caso 01\obj\Debug\caso 01.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\seman12\Estrella Alexandra Ca\caso 01\obj\Debug\caso 01.exe
+C:\Users\UPN\Desktop\seman12\Estrella Alexandra Ca\caso 01\obj\Debug\caso 01.pdb
+C:\Users\UPN\Desktop\seman12\Estrella Alexandra Ca\caso 01\obj\Debug\caso 01.exe.config
