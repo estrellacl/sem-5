@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\sem14\bin\Debug\sem14.exe.config
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\sem14\bin\Debug\sem14.exe
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\sem14\bin\Debug\sem14.pdb
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\sem14\obj\Debug\sem14.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\sem14\obj\Debug\sem14.Properties.Resources.resources
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\sem14\obj\Debug\sem14.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\sem14\obj\Debug\sem14.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\sem14\obj\Debug\sem14.exe
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\sem14\obj\Debug\sem14.pdb
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\sem14\obj\Debug\sem14.exe.config
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\sem14\obj\Debug\sem14.txts.resources

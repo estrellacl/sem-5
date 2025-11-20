@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\bin\Debug\estresem14.exe.config
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\bin\Debug\estresem14.exe
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\bin\Debug\estresem14.pdb
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\obj\Debug\estresem14.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\obj\Debug\estresem14.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\obj\Debug\estresem14.exe
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\obj\Debug\estresem14.pdb
+C:\Users\UPN\Desktop\T3_FA\14\caso_01\estresem14\obj\Debug\estresem14.exe.config
