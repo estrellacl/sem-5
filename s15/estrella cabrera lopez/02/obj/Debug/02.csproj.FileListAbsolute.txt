@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\s15\estrella cabrera lopez\02\bin\Debug\02.exe.config
+C:\Users\UPN\Desktop\s15\estrella cabrera lopez\02\bin\Debug\02.exe
+C:\Users\UPN\Desktop\s15\estrella cabrera lopez\02\bin\Debug\02.pdb
+C:\Users\UPN\Desktop\s15\estrella cabrera lopez\02\obj\Debug\02.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\s15\estrella cabrera lopez\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s15\estrella cabrera lopez\02\obj\Debug\02.exe
+C:\Users\UPN\Desktop\s15\estrella cabrera lopez\02\obj\Debug\02.pdb
+C:\Users\UPN\Desktop\s15\estrella cabrera lopez\02\obj\Debug\02.exe.config
